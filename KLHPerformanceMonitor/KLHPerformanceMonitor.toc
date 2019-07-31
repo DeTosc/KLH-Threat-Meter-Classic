@@ -1,4 +1,4 @@
-## Interface: 11200
+## Interface: 11302
 ## Title: KLHPerformanceMonitor
 ## Author: Kenco@Perenolde
 ## Notes: Determines which frames are using the most processor time or creating the most memory
